@@ -1,0 +1,33 @@
+.basker-font-italic{
+    font-family: 'Baskervville', serif;
+    font-style: italic;
+    
+}
+
+.basker-font-bold{
+    font-family: 'Baskervville', serif;
+    font-size: xx-large;
+    color: #427D9D;
+}
+.first{
+    background-color: #9BBEC8;
+
+}
+.texted{
+    color: #9BBEC8;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.education-headings{
+    color: #427D9D;
+}
+
+.bg-design{
+    background-color: #164863;
+}
+
